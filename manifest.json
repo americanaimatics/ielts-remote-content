@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "publishedAt": "2026-04-16T16:16:04.976Z",
+  "topics": [
+    {
+      "id": 5001,
+      "title": "AI in Daily Life",
+      "moduleId": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        8
+      ],
+      "category": "IELTS Speaking",
+      "description": "",
+      "image": "5001",
+      "dateCreated": "2026-04-16T16:16:04.976Z",
+      "ieltsUrl": "https://cdn.jsdelivr.net/gh/americanaimatics/ielts-remote-content@f769d7f349891637844f5a9149724b56d4463eb5/ielts/5001.enc.json"
+    }
+  ]
+}
